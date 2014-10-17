@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mza:home|Door43 (mza)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mza|d43-mza repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mza/archive/master.zip|d43-mza.zip]]
+
+**Recent Changes**
+{{changes>ns = mza}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mza|Ethnologue data]]
+
